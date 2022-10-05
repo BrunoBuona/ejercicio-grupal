@@ -80,7 +80,9 @@ let frutas = ["banana","pera","uva","manzana","durazno"]
 console.log(frutas);
 console.log(frutas[0],frutas[1],frutas[2],frutas[3],frutas[4]);
 //MAURO 14.    Crear un array llamado números con un mínimo de 5 elementos y mostrar por consola el array completo y cada uno de los elementos por separado.
-
+let numeros = [ 2 ,4, 6, 8, 10 ]
+console.log(numeros)
+console.log(numeros[0],numeros[1],numeros[2],numeros[3],numeros[4])
 //GABI 15.    Crear un array llamado familia con un mínimo de 5 objetos y mostrar por consola el array completo y cada uno de los elementos por separado.
 
 //ANTO 16.    Crear una variable llamada textoAleatorio formando una frase con el segundo elemento del array del punto 13, el cuarto elemento del punto 14 y el quinto objeto del array del punto 15.
