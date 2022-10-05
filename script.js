@@ -38,6 +38,11 @@ let textoPresentacion = "Mi nombre es " + miNombreCompleto + ". Tengo " + miEdad
 console.log(textoPresentacion)
 
 //9.    Crear una variable sumaEdades, restaEdades, productoEdades, divisionEdades y calcular sus respectivas operaciones con las variables miEdad y edadMascota.
+
+let sumaEdades = miEdad + edadMascota 
+let restaEdades = miEdad - edadMascota 
+let productoEdades = miEdad * edadMascota 
+
 //10.    Realizar la carga de las variables del punto 1 al 5 utilizando prompt() y luego ejecutar el código correspondiente para realizar los puntos del 6 al 9 con los datos cargados.
 //11.    Crear un objeto llamado alumno con un mínimo de 5 propiedades, mostrar dicho objeto utilizando console.table() y también mostrar cada una de las propiedades del objeto por separado.
 //12.    Crear un objeto llamado mascota con un mínimo de 5 propiedades, mostrar dicho objeto utilizando console.table() y también mostrar cada una de las propiedades del objeto por separado.
