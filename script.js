@@ -105,3 +105,6 @@ let familia = [
 console.log(familia)
 console.log(familia[0], familia[1], familia[2], familia[3], familia[4])
 //ANTO 16.    Crear una variable llamada textoAleatorio formando una frase con el segundo elemento del array del punto 13, el cuarto elemento del punto 14 y el quinto objeto del array del punto 15.
+
+let textoAleatorio = "mi fruta preferida es la " + frutas[1] + "y me como " + numeros[3] + "por dia con " + familia[4]
+console.log(textoAleatorio)
