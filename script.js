@@ -76,7 +76,9 @@ console.table(mascota);
 console.log(mascota.nombre, mascota.edad, mascota.genero, mascota.raza, mascota.tipo);
 
 //CESAR 13.    Crear un array llamado frutas con un mínimo de 5 elementos y mostrar por consola el array completo y cada uno de los elementos por separado.
-
+let frutas = ["banana","pera","uva","manzana","durazno"]
+console.log(frutas);
+console.log(frutas[0],frutas[1],frutas[2],frutas[3],frutas[4]);
 //MAURO 14.    Crear un array llamado números con un mínimo de 5 elementos y mostrar por consola el array completo y cada uno de los elementos por separado.
 
 //GABI 15.    Crear un array llamado familia con un mínimo de 5 objetos y mostrar por consola el array completo y cada uno de los elementos por separado.
