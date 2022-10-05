@@ -45,12 +45,6 @@ let productoEdades = miEdad * edadMascota
 
 //10.    Realizar la carga de las variables del punto 1 al 5 utilizando prompt() y luego ejecutar el código correspondiente para realizar los puntos del 6 al 9 con los datos cargados.
 
- miNombre = prompt("ingrese su nombre")
- miApellido = prompt("ingrese su apellido")
- miEdad = Number(prompt("ingrese su edad"))
- miMascota = prompt("ingrese el nombre de su mascota")
- edadMascota = Number(prompt("ingrese la edad de su mascota"))
- console.log(miNombre, miApellido, miEdad, miMascota, edadMascota);
- 
+
 //11.    Crear un objeto llamado alumno con un mínimo de 5 propiedades, mostrar dicho objeto utilizando console.table() y también mostrar cada una de las propiedades del objeto por separado.
 //12.    Crear un objeto llamado mascota con un mínimo de 5 propiedades, mostrar dicho objeto utilizando console.table() y también mostrar cada una de las propiedades del objeto por separado.
