@@ -52,4 +52,14 @@ edadMascota = Number(prompt("ingrese la edad de su mascota"))
 console.log(miNombre, miApellido, miEdad, miMascota, edadMascota);
 
 //11.    Crear un objeto llamado alumno con un mínimo de 5 propiedades, mostrar dicho objeto utilizando console.table() y también mostrar cada una de las propiedades del objeto por separado.
+
+let alumno = {
+    nombre: 'Bruno',
+    apellido: 'Buonassisa',
+    edad: 20,
+    altura: '182cm',
+    peso: '80kg'
+}
+
+console.table(alumno); 
 //12.    Crear un objeto llamado mascota con un mínimo de 5 propiedades, mostrar dicho objeto utilizando console.table() y también mostrar cada una de las propiedades del objeto por separado.
