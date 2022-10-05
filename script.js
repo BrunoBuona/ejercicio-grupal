@@ -74,3 +74,11 @@ let mascota ={
 };
 console.table(mascota); 
 console.log(mascota.nombre, mascota.edad, mascota.genero, mascota.raza, mascota.tipo);
+
+//CESAR 13.    Crear un array llamado frutas con un mínimo de 5 elementos y mostrar por consola el array completo y cada uno de los elementos por separado.
+
+//MAURO 14.    Crear un array llamado números con un mínimo de 5 elementos y mostrar por consola el array completo y cada uno de los elementos por separado.
+
+//GABI 15.    Crear un array llamado familia con un mínimo de 5 objetos y mostrar por consola el array completo y cada uno de los elementos por separado.
+
+//ANTO 16.    Crear una variable llamada textoAleatorio formando una frase con el segundo elemento del array del punto 13, el cuarto elemento del punto 14 y el quinto objeto del array del punto 15.
