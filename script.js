@@ -1,4 +1,4 @@
-// Crear una variable de tu nombre y ponerle un valor
+//1. Crear una variable de tu nombre y ponerle un valor
 
 let miNombre = "Mauro";
 
