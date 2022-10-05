@@ -65,3 +65,12 @@ console.table(alumno);
 console.log(alumno.edad, alumno.apellido, alumno.edad, alumno.altura, alumno.peso);
 
 //12.    Crear un objeto llamado mascota con un mínimo de 5 propiedades, mostrar dicho objeto utilizando console.table() y también mostrar cada una de las propiedades del objeto por separado.
+let mascota ={
+    nombre: "lulu",
+    edad: 2,
+    genero: "Hembra",
+    raza: "Siames",
+    tipo: "Gato",
+};
+console.table(mascota); 
+console.log(mascota.nombre, mascota.edad, mascota.genero, mascota.raza, mascota.tipo);
