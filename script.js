@@ -84,5 +84,24 @@ let numeros = [ 2 ,4, 6, 8, 10 ]
 console.log(numeros)
 console.log(numeros[0],numeros[1],numeros[2],numeros[3],numeros[4])
 //GABI 15.    Crear un array llamado familia con un mínimo de 5 objetos y mostrar por consola el array completo y cada uno de los elementos por separado.
-
+let familia = [
+    {
+        nombre: 'Gabriel',
+        edad: 22
+    },
+    {
+        nombre: 'Anto'
+    },
+    {
+        nombre:'Cesar'
+    },
+    {
+        nombre:'Mauro'
+    },
+    {
+        nombre:'Bruno'
+    },
+]
+console.log(familia)
+console.log(familia[0], familia[1], familia[2], familia[3], familia[4])
 //ANTO 16.    Crear una variable llamada textoAleatorio formando una frase con el segundo elemento del array del punto 13, el cuarto elemento del punto 14 y el quinto objeto del array del punto 15.
