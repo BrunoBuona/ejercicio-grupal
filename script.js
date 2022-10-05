@@ -1,4 +1,5 @@
-*/
+// Crear una variable de tu nombre y ponerle un valor
+
 let miNombre = "Mauro";
 
 //2.    Crear una variable llamada miApellido y guardar en ella su apellido.
